@@ -1,4 +1,4 @@
 # Lab8
+## Ahmed Hussaini (A14567151) and Nimish Prabhakaran
 
-Cypress and Jest weren't working too well together
-so we've separated the two out in different parts
+### READ: We worked on parts 1 and 2 separately and one of us pushed to the repo after finishing part 1. This caused conflicts when trying to push part 2 to the repo, and git told us to 'git pull' the existing repo first, which we did. However, every time we executed this, the pull would abort halfway through for some reason. After much troubleshooting, considering rebasing, etc, we were not able to figure out the problem. So, in part 2 we simply copied out code for our custom-tests.js and pasted it into the existing file of the same name. Furthermore, we added our screenshots to show that the tests we wrote indeed work. We were not able to push our other code to the repo, though, so the rest of the folders such as node_modules won't show here. 
